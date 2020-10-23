@@ -1,3 +1,3 @@
 # TestGit
 Test Git sur son fonctionnement.
-le proget testgit a été crée
+le projet testgit a été crée
